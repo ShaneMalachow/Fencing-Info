@@ -12,8 +12,6 @@ You don't need: weapons, jackets, pants, socks, hygiene items
 
 ## What to do beforehand
 
-[ ] Remove tape and zip ties from old tournaments
-
-[ ] Ensure your cords are untangled to reach approximately 6 inches between the plugs (and alligator clip)
-
-[ ] Make sure your lames are zipped, right side out, and off the hanger
+- Remove tape and zip ties from old tournaments
+- Ensure your cords are untangled to reach approximately 6 inches between the plugs (and alligator clip)
+- Make sure your lames are zipped, right side out, and off the hanger
