@@ -1,1 +1,1 @@
-[Lame Cleaning](https://shanemalachow.github.io/fencing/lame-cleaning)
+[Lame Cleaning](https://shanemalachow.github.io/Fencing-Info/lame-cleaning)
